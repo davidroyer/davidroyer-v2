@@ -1,0 +1,181 @@
+{
+  "tag-1aa": {
+    "name": "tag-1aa",
+    "slug": "tag-1aa",
+    "title": "Tag 1aa",
+    "posts": [
+      {
+        "title": "Article EXAMPLE",
+        "date": "12-04-2019",
+        "description": "Some basic description for this article to use as aan excerpt. It should include good info to entice someones to click to read more.",
+        "tags": {
+          "tag-1aa": {
+            "name": "tag 1aa",
+            "slug": "tag-1aa",
+            "title": "Tag 1aa"
+          },
+          "tag-2aa": {
+            "name": "tag 2aa",
+            "slug": "tag-2aa",
+            "title": "Tag 2aa"
+          },
+          "tag-3": {
+            "name": "tag 3",
+            "slug": "tag-3",
+            "title": "Tag 3"
+          },
+          "tag-4": {
+            "name": "tag 4",
+            "slug": "tag-4",
+            "title": "Tag 4"
+          }
+        },
+        "slug": "article-1"
+      }
+    ]
+  },
+  "tag-2aa": {
+    "name": "tag-2aa",
+    "slug": "tag-2aa",
+    "title": "Tag 2aa",
+    "posts": [
+      {
+        "title": "Article EXAMPLE",
+        "date": "12-04-2019",
+        "description": "Some basic description for this article to use as aan excerpt. It should include good info to entice someones to click to read more.",
+        "tags": {
+          "tag-1aa": {
+            "name": "tag 1aa",
+            "slug": "tag-1aa",
+            "title": "Tag 1aa"
+          },
+          "tag-2aa": {
+            "name": "tag 2aa",
+            "slug": "tag-2aa",
+            "title": "Tag 2aa"
+          },
+          "tag-3": {
+            "name": "tag 3",
+            "slug": "tag-3",
+            "title": "Tag 3"
+          },
+          "tag-4": {
+            "name": "tag 4",
+            "slug": "tag-4",
+            "title": "Tag 4"
+          }
+        },
+        "slug": "article-1"
+      }
+    ]
+  },
+  "tag-3": {
+    "name": "tag-3",
+    "slug": "tag-3",
+    "title": "Tag 3",
+    "posts": [
+      {
+        "title": "Article EXAMPLE",
+        "date": "12-04-2019",
+        "description": "Some basic description for this article to use as aan excerpt. It should include good info to entice someones to click to read more.",
+        "tags": {
+          "tag-1aa": {
+            "name": "tag 1aa",
+            "slug": "tag-1aa",
+            "title": "Tag 1aa"
+          },
+          "tag-2aa": {
+            "name": "tag 2aa",
+            "slug": "tag-2aa",
+            "title": "Tag 2aa"
+          },
+          "tag-3": {
+            "name": "tag 3",
+            "slug": "tag-3",
+            "title": "Tag 3"
+          },
+          "tag-4": {
+            "name": "tag 4",
+            "slug": "tag-4",
+            "title": "Tag 4"
+          }
+        },
+        "slug": "article-1"
+      }
+    ]
+  },
+  "tag-4": {
+    "name": "tag-4",
+    "slug": "tag-4",
+    "title": "Tag 4",
+    "posts": [
+      {
+        "title": "Article EXAMPLE",
+        "date": "12-04-2019",
+        "description": "Some basic description for this article to use as aan excerpt. It should include good info to entice someones to click to read more.",
+        "tags": {
+          "tag-1aa": {
+            "name": "tag 1aa",
+            "slug": "tag-1aa",
+            "title": "Tag 1aa"
+          },
+          "tag-2aa": {
+            "name": "tag 2aa",
+            "slug": "tag-2aa",
+            "title": "Tag 2aa"
+          },
+          "tag-3": {
+            "name": "tag 3",
+            "slug": "tag-3",
+            "title": "Tag 3"
+          },
+          "tag-4": {
+            "name": "tag 4",
+            "slug": "tag-4",
+            "title": "Tag 4"
+          }
+        },
+        "slug": "article-1"
+      },
+      {
+        "tags": {
+          "newwww-tag": {
+            "name": "newwww tag",
+            "slug": "newwww-tag",
+            "title": "Newwww tag"
+          },
+          "tag-4": {
+            "name": "tag 4",
+            "slug": "tag-4",
+            "title": "Tag 4"
+          }
+        },
+        "title": "Article 2",
+        "slug": "article-2"
+      }
+    ]
+  },
+  "newwww-tag": {
+    "name": "newwww-tag",
+    "slug": "newwww-tag",
+    "title": "Newwww Tag",
+    "posts": [
+      {
+        "tags": {
+          "newwww-tag": {
+            "name": "newwww tag",
+            "slug": "newwww-tag",
+            "title": "Newwww tag"
+          },
+          "tag-4": {
+            "name": "tag 4",
+            "slug": "tag-4",
+            "title": "Tag 4"
+          }
+        },
+        "title": "Article 2",
+        "slug": "article-2"
+      }
+    ]
+  }
+}

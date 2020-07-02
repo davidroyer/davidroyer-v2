@@ -2,8 +2,8 @@
   <div>
     <nuxt-link to="/">Home</nuxt-link>
     <nuxt-link to="/site-info">Site Info</nuxt-link>
-    <nuxt-link to="/">Blog</nuxt-link>
-    <nuxt-link to="/">Contact</nuxt-link>
+    <nuxt-link to="/blog">Blog</nuxt-link>
+    <nuxt-link to="/contact">Contact</nuxt-link>
     <Nuxt />
   </div>
 </template>

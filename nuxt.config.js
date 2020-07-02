@@ -61,8 +61,9 @@ export default {
    */
   modules: [
     '@nuxtjs/pwa',
+    '@droyer/nuxtcms',
     // Doc: https://github.com/nuxt/content
-    '@nuxt/content',
+    // '@nuxt/content',
   ],
   /*
    ** Content module configuration
